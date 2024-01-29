@@ -31,6 +31,9 @@ Reporting
 ---
 1. A html report - Which is generated using Cucumber Report, in the `target/cucumber-html-reports/allure-maven/index.html` directory, allowing you to view it locally.
 2. Takes screenshot if a scenario failed and attached to the report.
+
+![Report](https://github.com/umitolmez/e2e-testing-bookStore/blob/master/src/test/resources/demo/reportSS.png)
+
 ---
 
 Improvements & Suggestions
